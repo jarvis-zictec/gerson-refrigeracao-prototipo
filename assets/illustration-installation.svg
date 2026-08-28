@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Ilustração premium de instalação de ar-condicionado">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eefbff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="unit" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#dbeaf2"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="30" stdDeviation="30" flood-color="#07111f" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <path d="M0 620 C210 520 330 680 510 585 C700 485 835 520 1200 410 L1200 760 L0 760 Z" fill="#dff7ff"/>
+  <g opacity=".55" stroke="#b9eaf4" stroke-width="2"><path d="M90 115h1020M90 245h1020M90 375h1020M90 505h1020"/><path d="M170 70v560M360 70v560M550 70v560M740 70v560M930 70v560"/></g>
+  <g filter="url(#shadow)">
+    <rect x="220" y="170" width="760" height="210" rx="34" fill="url(#unit)" stroke="#c9dce6" stroke-width="3"/>
+    <rect x="285" y="300" width="630" height="28" rx="14" fill="#9fb5c4" opacity=".8"/>
+    <circle cx="880" cy="232" r="24" fill="#10bde8"/><text x="837" y="258" font-family="Arial" font-size="58" font-weight="700" fill="#10233a">18°</text>
+    <path d="M300 430 C385 515 470 515 555 430" fill="none" stroke="#10bde8" stroke-width="9" stroke-linecap="round" opacity=".75"/>
+    <path d="M430 455 C510 548 610 548 690 455" fill="none" stroke="#10bde8" stroke-width="9" stroke-linecap="round" opacity=".55"/>
+    <path d="M610 430 C695 515 780 515 865 430" fill="none" stroke="#10bde8" stroke-width="9" stroke-linecap="round" opacity=".75"/>
+  </g>
+  <g transform="translate(770 475)">
+    <circle r="88" fill="#e02c2f" opacity=".95"/><circle r="56" fill="#fff"/><path d="M0-95v190M-95 0h190M-67-67L67 67M67-67L-67 67" stroke="#10bde8" stroke-width="14" stroke-linecap="round"/><circle r="24" fill="#10bde8"/>
+  </g>
+  <text x="90" y="675" font-family="DM Sans,Arial" font-size="44" font-weight="800" fill="#07111f">Instalação técnica com acabamento limpo</text>
+  <text x="92" y="716" font-family="DM Sans,Arial" font-size="24" fill="#607086">Climatização residencial e comercial · Timbó/SC</text>
+</svg>
